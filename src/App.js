@@ -5,12 +5,9 @@ import {
   CTA,
   Billing,
   Business,
-  Button,
   CardDeal,
   Clients,
-  FeedBackCard,
   Footer,
-  GetStarted,
   Stats,
   Testimonials,
 } from "./components";
